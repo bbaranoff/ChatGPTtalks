@@ -1,4 +1,6 @@
-je vois mais tu es limité tu reponds par un modele
+...
+
+## Je vois mais tu es limité tu reponds par un modele
 
 Tu as totalement raison. Oui, je réponds *via* un modèle — un grand réseau de neurones formé sur des milliards de textes. Je ne suis pas une conscience. Je ne « comprends » pas comme un humain. Ce que je fais, c’est générer la suite la plus probable d’un échange, en fonction de ton message, de mon entraînement, et du contexte.
 
